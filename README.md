@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!-- ## Hi there! -->
+![](https://komarev.com/ghpvc/?username=vedantdaterao&style=pixel)
 <!--
 **vedantdaterao/vedantdaterao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
